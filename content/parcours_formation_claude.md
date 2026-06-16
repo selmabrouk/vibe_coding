@@ -4,6 +4,19 @@ Debutant -> Architecte CCA  |  ~65 heures  |  30% theorie / 70% labs
 
 Plateforme officielle : [anthropic.skilljar.com](https://anthropic.skilljar.com)
 
+# Liens utiles
+
+| Ressource | URL |
+|---|---|
+| Anthropic Academy (cours gratuits) | https://anthropic.skilljar.com |
+| Documentation officielle Anthropic | https://docs.anthropic.com |
+| Claude.ai (pratique prompts) | https://claude.ai |
+| Model Context Protocol (MCP) | https://modelcontextprotocol.io/introduction |
+| Preparation CCA-F (629 questions) | https://certsafari.com/anthropic/claude-certified-architect |
+| Claude Partner Network (inscription CCA) | https://www.anthropic.com/partners |
+| Bootcamp francophone Hackceleration | https://hackceleration.com/fr/formation-claude/ |
+| Cookbook officiel Anthropic (GitHub) | https://github.com/anthropics/anthropic-cookbook |
+
 # Vue d'ensemble & Objectifs
 
 | PHASE 1
@@ -83,15 +96,4 @@ Objectif fin aout  **Certification CCA-F obtenue + StatusPulse IA-powered en pro
 | Expert / CCA | Juillet -> 31 aout | ~35h | 5-6h/sem |
 | TOTAL | ~3 mois | ~65h | 30% theorie \| 70% labs |
 
-# Liens utiles
 
-| Ressource | URL |
-|---|---|
-| Anthropic Academy (cours gratuits) | https://anthropic.skilljar.com |
-| Documentation officielle Anthropic | https://docs.anthropic.com |
-| Claude.ai (pratique prompts) | https://claude.ai |
-| Model Context Protocol (MCP) | https://modelcontextprotocol.io/introduction |
-| Preparation CCA-F (629 questions) | https://certsafari.com/anthropic/claude-certified-architect |
-| Claude Partner Network (inscription CCA) | https://www.anthropic.com/partners |
-| Bootcamp francophone Hackceleration | https://hackceleration.com/fr/formation-claude/ |
-| Cookbook officiel Anthropic (GitHub) | https://github.com/anthropics/anthropic-cookbook |
